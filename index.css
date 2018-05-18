@@ -1,0 +1,322 @@
+body
+{
+background: url(dd.png) 50% 50% ;
+    
+}
+
+#grid
+{
+
+    height:1300px;
+    width: 100%;
+   
+    
+}
+
+.un{
+
+     height: 620px;
+    width: 32%;
+     float: left;
+     position: fixed;
+    margin: 0;
+    padding: 0;
+   
+   
+    
+}
+
+.deux {
+   
+    height: 1300px;
+    width: 65%;
+    float :right;
+    margin: 0;
+    padding: 0;
+    border-radius: 40px;
+  
+   
+}
+
+.circle
+
+
+    {
+    
+    width: 30px;
+    height: 30px;
+    background-color: #A94E6D;    border-radius: 30px;
+    position: absolute;
+    transition: all 1s;
+ 
+}
+.circle:hover
+{
+    background-color: #D8B9FD;
+    opacity: 0.6;
+    
+}
+
+#presentation 
+{ 
+    font-size: 20px;
+    font-family: 'Italiana', serif;
+    color: black;
+    border: solid 1px;
+    background-color: ;
+    opacity: 0.6;
+    height: 275px;
+    margin-top: 40px;
+    width: 275px;
+    position: absolute;
+    margin-left: 70px;
+   
+    
+    
+    
+}
+
+.nom
+{
+    text-align: center;
+    margin-left: 5px;
+    font-family: 'PT Serif Caption', serif;
+    font-size: 19px;
+    font-style: italic;
+}
+
+
+.competence
+
+{  
+    margin-top: 340px;
+    margin-left: 10px;
+    border: white 2px solid;
+    width: 400px;
+    height: 250px;
+    font-size: 20px;
+   font-family: 'PT Serif Caption', serif;
+    font-style: italic;
+    background:#FAE8FF; 
+    opacity: 0.6;
+    border-radius: 7px;
+    position: absolute;
+    
+    
+}
+
+.comp
+{
+    text-align: center;
+}
+
+.cpt
+{
+    font-size: 20px;
+    font-family: 'PT Serif Caption', serif;
+    text-align: center;
+}
+
+.diplome
+{
+    width: 820px;
+    border: white 1px solid;
+    height: 360px;
+    margin-left: 1pc;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: 'PT Serif Caption', serif;
+    font-style: italic;
+    background-color: ghostwhite;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+
+#college
+{
+    margin-top: -290px;
+    right: 540px;
+}
+#bafa
+{
+    margin-top: -265px;
+    right : 710px;
+}
+
+#terminale
+
+{
+    margin-top: -240px;
+    right: 530px;
+}
+.experience
+{
+    
+    width: 820px;
+    border: white 2px solid;
+    height: 500px;
+    margin-left: 1pc;
+    margin-top: 60px;
+    font-size: 20px;
+   font-family: 'PT Serif Caption', serif;
+    font-style: italic;
+    background-color: ghostwhite;
+    opacity: 0.6;
+    border-radius: 10px;
+}
+
+.formation
+{
+    text-align: center;
+}
+.titre
+
+{
+    text-align: center;
+}
+
+
+#babysitting
+{
+    margin-top: -370px;
+    right: 630px;
+}
+
+#London
+{ 
+margin-top: -345px;
+right: 690px;
+    position :absolute;
+}
+
+#monop
+{
+    margin-top: -318px;
+    right :610px;
+}
+#hotesse
+{
+    margin-top: -290px; 
+    right: 610px;
+    
+}
+#garde
+{
+    margin-top: -260px;
+    right: 627px;
+}
+#aide
+{
+    margin-top: -235px;
+    right: 600px;
+}
+
+#stage
+{
+    margin-top: -240px;
+    right: 520px;
+}
+
+
+
+
+
+.Loisir 
+{
+    width: 400px;
+    border: white 2px solid;
+    height: 200px;
+     margin-left: 1pc;
+    margin-top: 60px;
+    position: absolute;
+    font-size: 20px;
+    font-family: 'PT Serif Caption', serif;
+    background-color: ghostwhite;
+    opacity: 0.6;
+    border-radius: 10px;
+}
+
+.hobbie
+{
+    text-align: center;
+}
+
+.Langues
+{
+   
+    width: 400px;
+    border: white 2px solid;
+    height: 200px;
+    margin-top: 60px;
+    margin-left: 430px;
+    position: absolute;
+    font-size: 20px;
+    font-family: 'PT Serif Caption', serif;
+    font-style: italic;
+    background-color: ghostwhite;
+    opacity: 0.6;
+    border-radius: 10px;
+
+ 
+}
+ .lan 
+{
+    text-align: center;
+}
+
+.pro
+
+{
+    margin-left: 35px;
+}
+
+.form
+{
+    margin-left: 35px;
+    font-family: 'PT Serif Caption', serif;
+}
+
+.lsr
+{
+   margin-left: 35px;
+    font-family: 'PT Serif Caption', serif; 
+}
+
+.lg
+{
+    margin-left: 35px;
+    font-family: 'PT Serif Caption', serif;  
+}
+
+#text1{
+    
+   
+    position:absolute;
+    font-size: 20px;
+    margin-left: 800px;
+    
+    margin-top: 200px;
+    width: 400px;
+    height: 200px;
+    font-family: 'PT Serif Caption', serif; 
+    font-style: italic;
+    text-align: center;
+  
+}
+
+#text2{
+    
+
+    font-size: 20px;
+    width: 450px;
+    top : 600px;
+    left: 800px;
+    height: 300px;
+    margin-top:120px;
+    position: absolute;
+    text-align: center;
+    font-style: italic;
+    font-family: 'PT Serif Caption', 'serif';
+  
+}
+
