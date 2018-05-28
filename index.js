@@ -4,6 +4,7 @@ var text1 = document.querySelector("#text1");
 var secours = document.querySelector("#college");
 var bafa = document.querySelector("#bafa");
 var terminale = document.querySelector('#terminale');
+var simplon = document.querySelector('#simplon');
 
 secours.addEventListener("mouseover", function(){ text1.innerHTML = "2016: Lycée Jean Renoir à Bondy FRANCE" ;  });
 
@@ -16,6 +17,10 @@ bafa.addEventListener("mouseout", function(){ text1.innerHTML =""; });
 terminale.addEventListener("mouseover", function(){ text1.innerHTML = "2012: Collège Eric Tabarly à Pavillons-sous-bois FRANCE";  });
 
 terminale.addEventListener("mouseout", function(){ text1.innerHTML =""; });
+
+simplon.addEventListener("mouseover", function() { text1.innerHTML = "2018 : Simplon à Bagnolet ";
+                                                 });
+simplon.addEventListener("mouseout", function() { text1.innerHTML =""; });
 
 //------------PARTIE EXPERIENCE PRO---//
 var text2 = document.querySelector("#text2")

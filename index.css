@@ -121,7 +121,7 @@ background: url(dd.png) 50% 50% ;
 {
     width: 820px;
     border: white 1px solid;
-    height: 360px;
+    height: 385px;
     margin-left: 1pc;
     margin-top: 50px;
     font-size: 20px;
@@ -135,7 +135,7 @@ background: url(dd.png) 50% 50% ;
 #college
 {
     margin-top: -290px;
-    right: 540px;
+    right: 550px;
 }
 #bafa
 {
@@ -147,8 +147,16 @@ background: url(dd.png) 50% 50% ;
 
 {
     margin-top: -240px;
-    right: 530px;
+    right: 570px;
 }
+
+#simplon
+
+{
+    margin-top:-28%;
+    right : 45%;
+}
+
 .experience
 {
     
